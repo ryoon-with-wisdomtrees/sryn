@@ -14,7 +14,7 @@ function Bio({ author, language = 'ko' }) {
           <p className="title">
             Hi, there 🧀
             <br />
-            {bio.role} <strong>{name}</strong> day.
+            {bio.role} <strong>{name}</strong>
             <br />
             Wish you have a
             <br />

@@ -1,9 +1,9 @@
 module.exports = {
-  title: `sryn`,
+  title: `shere.sryn`,
   description: `둥글륜 기록`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://github.com/SphereSRYN/zoomkoding-gatsby-blog`,
-  ogImage: `/sryn.png`, // Path to your in the 'static' folder
+  siteUrl: `https://sryn.netlify.app/`,
+  ogImage: `/sryn2.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
@@ -11,15 +11,15 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `둥글륜`,
+    name: `ryoon`,
     bio: {
-      role: `개발자`,
+      role: `I'm `,
       description: ['Thankful', 'Joyful', 'Grounded'],
       thumbnail: 'yes.jpg', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://github.com/SphereSRYN`,
-      // linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
       email: ``, // `sphere.sryn@gmail.com`,
     },
   },
