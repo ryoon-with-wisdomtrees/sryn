@@ -1,5 +1,5 @@
 ---
-emoji: 🔮
+emoji: 🍟
 title: Gatsby 테마로 GitHub Blog 만들어봄
 date: '2022-01-19 00:00:00'
 author: sryn
