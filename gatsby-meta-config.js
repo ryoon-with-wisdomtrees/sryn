@@ -3,7 +3,7 @@ module.exports = {
   description: `둥글륜 기록`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://sryn.netlify.app/`,
-  ogImage: `/sryn2.png`, // Path to your in the 'static' folder
+  ogImage: `/sryn.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `I'm `,
       description: ['Thankful', 'Joyful', 'Grounded'],
-      thumbnail: 'yes.jpg', // Path to the image in the 'asset' folder
+      thumbnail: 'sryn2.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://github.com/SphereSRYN`,
