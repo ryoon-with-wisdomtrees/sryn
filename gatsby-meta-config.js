@@ -11,11 +11,11 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `ryoon`,
+    name: `ryoon.`,
     bio: {
       role: `I'm `,
       description: ['Thankful', 'Joyful', 'Grounded'],
-      thumbnail: 'sryn2.png', // Path to the image in the 'asset' folder
+      thumbnail: 'pizza.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://github.com/SphereSRYN`,
