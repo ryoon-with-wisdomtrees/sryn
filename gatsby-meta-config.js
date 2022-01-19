@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `I'm `,
       description: ['Thankful', 'Joyful', 'Grounded'],
-      thumbnail: '/sryn2.png', // Path to the image in the 'asset' folder
+      thumbnail: '/2022.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://github.com/SphereSRYN`,
