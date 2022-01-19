@@ -1,9 +1,9 @@
 {
-  "name": "zoomkoding.com",
+  "name": "sryn",
   "private": false,
-  "description": "A neat blog theme for developers",
+  "description": "sryn",
   "version": "2.0.0",
-  "author": "zoomkoding <zoomkoding@gmail.com>",
+  "author": "sryn <sphere.sryn@gmail.com>",
   "dependencies": {
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
@@ -11,6 +11,7 @@
     "gatsby-plugin-advanced-sitemap": "^2.0.0",
     "gatsby-plugin-feed": "^3.13.0",
     "gatsby-plugin-google-analytics": "^3.13.0",
+    "gatsby-plugin-gtag": "^1.0.13",
     "gatsby-plugin-image": "^1.14.0",
     "gatsby-plugin-manifest": "^3.13.0",
     "gatsby-plugin-offline": "^4.13.0",
@@ -50,7 +51,7 @@
     "build": "gatsby clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "deploy": "gatsby clean && gatsby build && gh-pages -d public",
+    "deploy": "gatsby build && gh-pages -d public",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
@@ -58,9 +59,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog"
+    "url": "https://github.com/SphereSRYN/zoomkoding-gatsby-blog"
   },
   "bugs": {
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog/issues"
+    "url": "https://github.com/SphereSRYN/zoomkoding-gatsby-blogissues"
   }
 }
