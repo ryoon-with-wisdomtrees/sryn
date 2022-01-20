@@ -58,7 +58,7 @@ module.exports = {
         lang: `en`,
         display: `standalone`,
         start_url: `/`,
-        icon: `static/sryn2.png`,
+        icon: `static/favicon3.png`,
       },
     },
     {

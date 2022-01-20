@@ -1,9 +1,9 @@
 module.exports = {
-  title: `륭`,
+  title: `sryn.netlify.app ✨`,
   description: `Ssullaellae workplace`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://sryn.netlify.app/`,
-  ogImage: `/sryn.png`, // Path to your in the 'static' folder
+  ogImage: `/favicon3.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
@@ -11,11 +11,11 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `륜`,
+    name: `세륜`,
     bio: {
       role: `개발자 `,
       description: ['유쾌', '상쾌', '통쾌'],
-      thumbnail: '2022.png', // Path to the image in the 'asset' folder
+      thumbnail: 'favicon3.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/SphereSRYN`,
