@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `천세륜`,
+    name: `seryooncheon`,
     bio: {
-      role: `개발자 `,
-      description: ['유쾌', '상쾌', '통쾌'],
+      role: `deveolper`,
+      description: ['explore', 'learn,', 'create'],
       thumbnail: 'favicon_fin.png', // Path to the image in the 'asset' folder
     },
     social: {
