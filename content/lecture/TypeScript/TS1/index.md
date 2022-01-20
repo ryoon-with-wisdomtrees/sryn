@@ -4,7 +4,7 @@ title: DOIT 타입스크립트_1
 date: '2022-01-20 17:02:00'
 author: sryn
 tags: lecture tutorial TypeScript
-categories: 📑 featured
+categories: 📑
 ---
 
 ## 📑 타입스크립트?
