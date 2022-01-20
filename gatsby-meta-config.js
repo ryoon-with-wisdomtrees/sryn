@@ -42,15 +42,32 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-      // {
-      //   date: '2021.02 ~',
-      //   activity: '개인 블로그 개발 및 운영',
-      //   // links: {
-      //   //   post: '/gatsby-starter-zoomkoding-introduction',
-      //   //   github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-      //   //   demo: 'https://www.zoomkoding.com',
-      //   // },
-      // },
+      {
+        date: '2018.03 ~09',
+        activity: '비트캠프 자바 웹개발 과정 수료',
+        links: {
+          post: 'https://seryuncheon.github.io//about/',
+        },
+      },
+      {
+        date: '2019.03 ~2021.07',
+        activity: 'java기반 개발자 취업 및 유지보수& 기능 개선 업무',
+        // links: {
+        //   post: '/gatsby-starter-zoomkoding-introduction',
+        //   github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+        //   demo: 'https://www.zoomkoding.com',
+        // },
+      },
+      {
+        date: '2021.12 ~',
+        activity: '프론트엔드 세계 탐닉中',
+        // links: {
+        //   post: '/gatsby-starter-zoomkoding-introduction',
+        //   github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+        //   demo: 'https://www.zoomkoding.com',
+        // },
+      },
+
     ],
 
     projects: [
