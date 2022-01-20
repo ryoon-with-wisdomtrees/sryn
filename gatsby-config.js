@@ -58,7 +58,7 @@ module.exports = {
         lang: `en`,
         display: `standalone`,
         start_url: `/`,
-        icon: `static/2022.png`,
+        icon: `static/sryn.png`,
       },
     },
     {
