@@ -1,17 +1,17 @@
 ---
 emoji: 🍟
-title: Gatsby 테마로 GitHub Blog 만들어봄
+title: Gatsby 블로그
 date: '2022-01-19 00:00:00'
 author: sryn
 tags: 블로그 tutorial
-categories: 블로그 featured
+categories: 쓰기 featured
 ---
 
 약 5시간 정도의 우여곡절 끝에 블로그 생성을 완료하였다.
 
 ## 시작
 
-잘 써지는 군요. 마크다운 문법을 하도 안쓴지 오래 돼서 아직 안 익숙하다.</br>
+잘 써지는 군. 마크다운 문법을 하도 안쓴지 오래 돼서 아직 안 익숙하다.</br>
 여러운게 아니라 익숙하지 않으니, 차근차근 낯설음을 줄여보자.
 </br>
 

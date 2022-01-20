@@ -4,7 +4,7 @@ title: 타이탄의 도구들_7
 date: '2021-11-27 16:51:00'
 author: sryn
 tags: book thoughts 타이탄의도구들
-categories: 📕
+categories: 책
 ---
 
 ## 🍋 텅 빈 공간에 홀로 서라.

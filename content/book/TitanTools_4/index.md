@@ -4,7 +4,7 @@ title: 타이탄의 도구들_4
 date: '2021-11-24 16:51:10'
 author: sryn
 tags: book thoughts 타이탄의도구들
-categories: 📕
+categories: 책
 ---
 
 ## 🍋 아침일기는 정신의 와이퍼다

@@ -4,7 +4,7 @@ title: DOIT 타입스크립트_2
 date: '2022-01-20 17:02:00'
 author: sryn
 tags: lecture tutorial TypeScript
-categories: 📑
+categories: 樂
 ---
 
 ## 타입스크립트 프로젝트 만들기

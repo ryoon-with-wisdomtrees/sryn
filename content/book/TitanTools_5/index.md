@@ -4,7 +4,7 @@ title: 타이탄의 도구들_5
 date: '2021-11-24 16:51:20'
 author: sryn
 tags: book thoughts 타이탄의도구들
-categories: 📕
+categories: 책
 ---
 
 ## 🍋 하지만 뭔가 남다른 삶을 원한다면 선택 가능한 길은 두가지다.
