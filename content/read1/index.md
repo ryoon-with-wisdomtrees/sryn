@@ -1,7 +1,7 @@
 ---
 emoji: 📕
 title: 타이탄의 도구들_1
-date: '2021-11-24 16:51:00'
+date: '2021-11-24 16:50:00'
 author: sryn
 tags: book thoughts 타이탄의도구들
 categories: I_read
