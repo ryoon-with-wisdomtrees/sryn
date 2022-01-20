@@ -120,14 +120,14 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-gtag`,
-    //   options: {
-    //     trackingId: 'G-NH1R08PPRT',
-    //     head: false,
-    //     anonymize: true,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        trackingId: 'G-NH1R08PPRT',
+        head: false,
+        anonymize: true,
+      },
+    },
     `gatsby-theme-material-ui`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-advanced-sitemap`,

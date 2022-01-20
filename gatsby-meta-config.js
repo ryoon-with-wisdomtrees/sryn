@@ -1,6 +1,6 @@
 module.exports = {
-  title: `sryn.netlify.app ✨`,
-  description: `Ssullaellae workplace`,
+  title: `sryn.netlify.app 🎇`,
+  description: `ryoon workplace`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://sryn.netlify.app/`,
   ogImage: `/favicon_fin.png`, // Path to your in the 'static' folder
@@ -9,7 +9,7 @@ module.exports = {
       repo: `SphereSRYN/sryn`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-NH1R08PPRT', // Google Analytics Tracking ID
   author: {
     name: `seryooncheon`,
     bio: {

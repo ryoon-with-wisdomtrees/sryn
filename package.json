@@ -61,9 +61,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SphereSRYN/zoomkoding-gatsby-blog"
+    "url": "https://github.com/SphereSRYN/sryn"
   },
   "bugs": {
-    "url": "https://github.com/SphereSRYN/zoomkoding-gatsby-blogissues"
+    "url": "https://github.com/SphereSRYN/sryn/issues"
   }
 }
