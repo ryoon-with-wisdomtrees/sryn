@@ -40,7 +40,8 @@
 
     strong {
       display: inline-block;
-      font-weight: 600;
+      font-weight: 700;
+      color: gold;
     }
 
     &.korean {
@@ -65,8 +66,6 @@
           }
         }
       }
-
-
     }
 
     &.english {
@@ -102,7 +101,7 @@
 
   .thumbnail {
     display: none;
-    width: 250px;
+    width: 500px;
 
     @include md {
       display: block;

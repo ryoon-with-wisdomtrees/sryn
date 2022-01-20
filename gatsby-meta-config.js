@@ -1,6 +1,6 @@
 module.exports = {
-  title: `shere.sryn`,
-  description: `둥글륜 기록`,
+  title: `륭`,
+  description: `Ssullaellae workplace`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://sryn.netlify.app/`,
   ogImage: `/sryn.png`, // Path to your in the 'static' folder
@@ -11,16 +11,16 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `ryoon.`,
+    name: `륜`,
     bio: {
-      role: `I'm `,
-      description: ['Thankful', 'Joyful', 'Grounded'],
-      thumbnail: 'yeas2.png', // Path to the image in the 'asset' folder
+      role: `개발자 `,
+      description: ['유쾌', '상쾌', '통쾌'],
+      thumbnail: '2022.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/SphereSRYN`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `sphere.sryn@gmail.com`,
+      github: `https://github.com/SphereSRYN`,
+      linkedIn: ``,
+      email: `sphere.sryn@gmail.com`, // ``,
     },
   },
 
