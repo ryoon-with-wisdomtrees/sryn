@@ -3,7 +3,7 @@ module.exports = {
   description: `ryoon workplace`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://sryn.netlify.app/`,
-  ogImage: `/favicon_fin.png`, // Path to your in the 'static' folder
+  ogImage: `/sryn2.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: `SphereSRYN/sryn`, // `zoomkoding/zoomkoding-gatsby-blog`,
@@ -11,11 +11,11 @@ module.exports = {
   },
   ga: 'G-NH1R08PPRT', // Google Analytics Tracking ID
   author: {
-    name: `seryooncheon`,
+    name: `Seryoon Cheon`,
     bio: {
       role: `deveolper`,
       description: ['explore.', 'learn.', 'create.'],
-      thumbnail: 'favicon_fin.png', // Path to the image in the 'asset' folder
+      thumbnail: 'sryn2.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/SphereSRYN`,
