@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/favicon_fin.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `SphereSRYN/sryn`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -14,7 +14,7 @@ module.exports = {
     name: `seryooncheon`,
     bio: {
       role: `deveolper`,
-      description: ['explore', 'learn,', 'create'],
+      description: ['explore.', 'learn.', 'create.'],
       thumbnail: 'favicon_fin.png', // Path to the image in the 'asset' folder
     },
     social: {
