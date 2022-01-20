@@ -4,7 +4,7 @@ title: 타이탄의 도구들_6
 date: '2021-11-26 16:51:30'
 author: sryn
 tags: book thoughts 타이탄의도구들
-categories: I_read
+categories: 📕
 ---
 
 ## 🍋 쓰고, 쓰고, 또 써라

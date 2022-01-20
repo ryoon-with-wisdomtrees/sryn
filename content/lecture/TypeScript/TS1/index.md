@@ -1,10 +1,10 @@
 ---
 emoji: 🎨
-title: CS50's Mobile App Development with React Native_1
+title: DOIT 타입스크립트_1
 date: '2022-01-20 17:02:00'
 author: sryn
-tags: lecture tutorial
-categories: lecture featured
+tags: lecture tutorial TypeScript
+categories: 📑 featured
 ---
 
 ## 👋 시작

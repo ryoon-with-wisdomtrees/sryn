@@ -4,7 +4,7 @@ title: Gatsby 테마로 GitHub Blog 만들어봄
 date: '2022-01-19 00:00:00'
 author: sryn
 tags: 블로그 tutorial
-categories: writing featured
+categories: ✍ featured
 ---
 
 약 5시간 정도의 우여곡절 끝에 블로그 생성을 완료하였다.
@@ -72,7 +72,7 @@ sphere.ryoon을 KV에 적용할까 싶었고,</br></br>
 2. 극단적 미니멀리스트도 맥시멀리스트도 아니지만,</br> 이 템플릿엔 간결하고 심플한 디자인이 최적인 것 같다.
 
 3. 너무 과하지도 너무 모자라지도 않은 균형은 이렇게 한 개인의 삶 뿐 아니라 이런 작은 영역에도 적용된다. 아주 사소한 것에 적용할 수 있는 것이 큰 범주에도 적용 가능하다는 말은 그래서 나온걸까?
-   </br></br></br></br></br>
+   </br></br>
 
 ```toc
 

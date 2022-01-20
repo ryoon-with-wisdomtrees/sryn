@@ -4,7 +4,7 @@ title: 타이탄의 도구들_2
 date: '2021-11-24 16:51:00'
 author: sryn
 tags: book thoughts 타이탄의도구들
-categories: I_read
+categories: 📕
 ---
 
 ## 🍋 우리는 모두 맨 끝에 서 있다.

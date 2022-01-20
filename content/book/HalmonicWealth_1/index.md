@@ -4,7 +4,7 @@ title: 조화로운 부_제임스 아서 레이
 date: '2022-01-20 15:51:00'
 author: sryn
 tags: book thoughts 조화로운부
-categories: I_read
+categories: 📕
 ---
 
 ## 🐚 세가지 진동
