@@ -1,6 +1,6 @@
 ---
 emoji: 📑
-title: javascript-essential_Primitive Data
+title: [javascript-essential] Primitive Data
 date: '2022-01-23 17:02:00'
 author: sryn
 tags: lecture tutorial Javascript

@@ -1,6 +1,6 @@
 ---
 emoji: 📑
-title: javascript-essential_ Assignment Operator’s
+title: [javascript-essential] Assignment Operator’s
 date: '2022-01-23 17:02:00'
 author: sryn
 tags: lecture tutorial Javascript

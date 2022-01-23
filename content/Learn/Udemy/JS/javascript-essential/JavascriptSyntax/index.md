@@ -1,6 +1,6 @@
 ---
 emoji: 📑
-title: javascript-essential_ Javascript Syntax
+title: [javascript-essential] Javascript Syntax
 date: '2022-01-23 17:02:00'
 author: sryn
 tags: lecture tutorial Javascript

@@ -1,6 +1,6 @@
 ---
 emoji: 📑
-title: javascript-essential_ Variables, Constants & Assignment
+title: [javascript-essential] Variables, Constants & Assignment
 date: '2022-01-23 17:02:00'
 author: sryn
 tags: lecture tutorial Javascript

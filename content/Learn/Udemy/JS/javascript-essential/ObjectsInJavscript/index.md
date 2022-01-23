@@ -1,6 +1,6 @@
 ---
 emoji: 📑
-title: javascript-essential_ Objects in Javascript
+title: [javascript-essential] Objects in Javascript
 date: '2022-01-23 17:02:00'
 author: sryn
 tags: lecture tutorial Javascript

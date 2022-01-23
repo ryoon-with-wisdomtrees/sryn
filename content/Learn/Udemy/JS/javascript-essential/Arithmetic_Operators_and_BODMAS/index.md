@@ -1,6 +1,6 @@
 ---
 emoji: 📑
-title: javascript-essential_Arithmetic Operator’s & BODMAS
+title: [javascript-essential] Arithmetic Operator’s & BODMAS
 date: '2022-01-23 17:02:00'
 author: sryn
 tags: lecture tutorial Javascript
