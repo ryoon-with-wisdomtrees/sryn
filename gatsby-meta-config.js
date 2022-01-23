@@ -11,7 +11,7 @@ module.exports = {
   },
   ga: 'G-NH1R08PPRT', // Google Analytics Tracking ID
   author: {
-    name: `Seryoon Cheon`,
+    name: `seryoon cheon`,
     bio: {
       role: `deveolper`,
       description: ['explore.', 'learn.', 'create.'],
