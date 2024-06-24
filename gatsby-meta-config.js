@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/sryn2.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: `SphereSRYN/sryn`, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `ryoon.with.wisdomtrees/sryn`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: 'G-NH1R08PPRT', // Google Analytics Tracking ID
@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'sryn2.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: `https://github.com/SphereSRYN`,
+      github: `https://github.com/ryoon.with.wisdomtrees`,
       linkedIn: ``,
-      email: `sphere.sryn@gmail.com`, // ``,
+      email: `ryoon.with.wisdomtrees@gmail.com`, // ``,
     },
   },
 
