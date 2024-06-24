@@ -1,9 +1,9 @@
 {
-  "name": "sryn",
+  "name": "ryoon.with.wisdomtrees",
   "private": false,
-  "description": "sryn",
+  "description": "ryoon.with.wisdomtrees",
   "version": "2.0.0",
-  "author": "sryn <sphere.sryn@gmail.com>",
+  "author": "ryoon.with.wisdomtrees <ryoon.with.wisdomtrees@gmail.com>",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
@@ -61,9 +61,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SphereSRYN/sryn"
+    "url": "https://github.com/ryoon.with.wisdomtrees/sryn"
   },
   "bugs": {
-    "url": "https://github.com/SphereSRYN/sryn/issues"
+    "url": "https://github.com/ryoon.with.wisdomtrees/sryn/issues"
   }
 }
